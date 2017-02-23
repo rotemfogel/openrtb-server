@@ -1,1 +1,1 @@
-# openrtb-server
+# OpenRTB server in Go Lang
